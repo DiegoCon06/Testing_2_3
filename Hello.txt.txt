@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is a new File! and it was changed in origin BRANCH CHANGED IN BRANCH
 This is a branch change
 Hello
+=======
+This is a new file! and it was changed in origin BRANCH CHANGED THIS LINE
+>>>>>>> 72707b3e60ec981999d9b00d3a5e90e348ef105e
